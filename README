@@ -1,0 +1,9 @@
+XML Field
+------------------------------------
+
+Version: 1.0
+Author: Symphony Team (team@symphony21.com)
+Build Date: 29th April 2009
+Requirements: Symphony 2.0.2
+
+A textarea like field that only accepts valid XML
